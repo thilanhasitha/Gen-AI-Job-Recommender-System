@@ -38,6 +38,16 @@
 
 ---
 
+## screenshots
+<img width="1913" height="1078" alt="image" src="https://github.com/user-attachments/assets/a32e728d-a714-4343-8c84-22e1144814f3" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/b5345dc8-52b0-41c6-8b6d-5e47919b248b" />
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/a447108f-2366-4c3a-a07d-247624a2b863" />
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/94117ba3-c6a4-4e9e-b17b-99bdb0da3d82" />
+
+
+
+
+
 ## Architecture & Components
 
 | Component | Function |
