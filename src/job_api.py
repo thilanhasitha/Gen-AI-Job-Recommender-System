@@ -9,7 +9,7 @@ apify_client = ApifyClient(os.getenv("APIFY_API_KEY"))
 
 
 ## fetch linkedin jobs based on search query and location
-def fetch_linkedin_jobs(search_query, location='Sri Lanka', rows=50):
+def fetch_linkedin_jobs(search_query, location='Sri Lanka', rows=60):
     # Prepare the Actor input
     run_input = {
         "title": search_query,
@@ -35,7 +35,7 @@ def fetch_linkedin_jobs(search_query, location='Sri Lanka', rows=50):
 #     print(item)
 
 ## fetch naukri jobs based on search query and location
-def fetch_naukri_jobs(search_query, location="Sri Lanka", rows=50):
+def fetch_naukri_jobs(search_query, location="Sri Lanka", rows=60):
     # Prepare the Actor input
     run_input = {
         # "searchUrls": ["https://www.naukri.com/it-jobs"],
