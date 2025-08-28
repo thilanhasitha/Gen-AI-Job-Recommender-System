@@ -34,7 +34,7 @@ def fetch_linkedin_jobs(search_query, location='Sri Lanka', rows=60):
 # for item in client.dataset(run["defaultDatasetId"]).iterate_items():
 #     print(item)
 
-## fetch naukri jobs based on search query and location
+# fetch naukri jobs based on search query and location
 def fetch_naukri_jobs(search_query, location="Sri Lanka", rows=60):
     # Prepare the Actor input
     run_input = {
@@ -56,6 +56,6 @@ def fetch_naukri_jobs(search_query, location="Sri Lanka", rows=60):
     return jobs
 
 
-# # Fetch and print Actor results from the run's dataset (if there are any)
+# Fetch and print Actor results from the run's dataset (if there are any)
 # for item in client.dataset(run["defaultDatasetId"]).iterate_items():
 #     print(item)
