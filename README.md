@@ -38,7 +38,7 @@
 
 ---
 
-<<<<<<< HEAD
+
 =======
 ## screenshots
 <img width="1913" height="1078" alt="image" src="https://github.com/user-attachments/assets/a32e728d-a714-4343-8c84-22e1144814f3" />
