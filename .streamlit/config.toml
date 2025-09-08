@@ -1,0 +1,3 @@
+[general]
+# prevent Streamlit from writing to /
+storageFolder = "/data/.streamlit"
